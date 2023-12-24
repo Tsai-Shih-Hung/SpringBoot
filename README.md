@@ -1,1 +1,1 @@
-# SpringBoot
+This is an example code demonstrating Spring Boot containerization. If you want to test the backend with MySQL, you'll need to adjust the application settings, especially the 'spring.datasource.url' in this example. The 'spring.datasource.url' is used to match the Docker configuration.
